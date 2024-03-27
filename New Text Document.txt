@@ -1,195 +1,3 @@
-CAMBRIDGE INSTITUTE OF TECHNOLOGY 
-Affiliated to VTU, Recognized by GOK, Approved by AICTE, New Delhi (NAAC ‘A+ Grade’ Accredited, NBA Accredited (UG - CSE, 
-ECE, ISE, EIE and EEE) K R Puram, Bengaluru - 560 036 Ph:(080)28611880,28611881 
-Department of Artificial Intelligence  
-& Machine Learning 
-ANGULAR JS LABORATORYMANUAL 
-(21CSL581/ 21CBL583) 
-V Semester 
-By:- 
-Dr.Buddesab                                        
-Associate Professor                            
-Dept. of AIML                                      
-Prof. Anusha 
-Assistant Professor 
-Dept. of AIML 
-ANGULAR JS(21CSL581) 1 
- 
-ANGULAR JS 
-Course Code 21CSL581/21CBL583 CIE Marks 50 
-Teaching Hours/Week(L:T:P:S) 0:0:2:0 SEE Marks 50 
-Credits 01 Total marks 100 
-Examination type(SEE) PRACTICAL 
-Courseobjectives: 
- To learn the basics of Angular JS framework. 
- To understand the Angular JS Modules,Forms,inputs,expression,databindings and Filters 
- Togainexperienceofmoderntoolusage(VSCode,Atomoranyother]indeveloping Web applications 
-Sl.NO  Experiments  
-1 Develop Angular JS program that allows user to input their first name and last name and display 
-their full name. Note: The default values for first name and last name may be included in the 
-program. 
-2 Develop an Angular JS application that displays a list of shopping items. Allow users to add and 
-remove items from the list using directives and controllers. Note: The default values of items may 
-be included in the program 
-3 Develop a simple Angular JS calculator application that can perform basic mathematical 
-operations (addition, subtraction, multiplication, division) based on user input. 
-4 Write an Angular JS application that can calculate factorial and compute square based on given 
-user input. 
-5 Develop Angular JS application that displays a details of students and their CGPA. Allow users to 
-read the number of students and display the count. Note: Student details may be included in the 
-program 
-6 Develop an Angular JS program to create a simple to-do list application. Allow users to add, edit, 
-and delete tasks. Note: The default values for tasks may be included in the program. 
-7 Write an Angular JS program to create a simple CRUD application (Create, Read, Update, and 
-Delete) for managing users. 
-8 Develop Angular JS program to create a login form, with validation for the username and 
-password fields. 
-9 Create an Angular JS application that displays a list of employees and their salaries. Allow users to 
-search for employees by name and salary. Note: Employee details may be included in the 
-program. 
-10 Create Angular JS application that allows users to maintain a collection of items. The application 
-should display the current total number of items, and this count should automatically update as 
-items are added or removed. Users should be able to add items to the collection and remove them 
-as needed. Note: The default values for items may be included in the program. 
-11 Create Angular JS application to convert student details to Uppercase using angular filters. Note: 
-The default details of students may be included in the program. 
-12 Create an Angular JS application that displays the date by using date filter parameters 
-NOTE:IncludenecessaryHTMLelementsandCSSfortheaboveAngularapplications. 
-Course out comes(CourseSkillSet): 
-Attheend of the course the student will be able to: 
-1. Develop Angular JS programs using basic features 
-2. Develop dynamic Web applications using Angular JS modules 
-3. Make use of form validations and controls for interactive applications 
-4. AppytheconceptsofExpressions,databindingsandfiltersindevelopingAngularJSprograms 
-5. MakeuseofmoderntoolstodevelopWebapplications 
-1 | P a g e                                                                                                                                                                               C I T 
-2 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-2 
- 
-AssessmentDetails(bothCIEandSEE) 
- 
-The weightage of Continuous Internal Evaluation (CIE) is 50% and for Semester End Exam (SEE) is 50%. 
-Theminimum passing mark for the CIE is 40% of the maximum marks (20 marks). A student shall be deemed 
-tohavesatisfiedtheacademicrequirementsandearnedthecreditsallottedtoeachcourse.Thestudenthastosecurenot   less 
-than 35% (18 Marks out of 50) in the semester-end examination (SEE). The student has to secure aminimum of 
-40% (40 marks out of 100) in the sum 
-totaloftheCIE(ContinuousInternalEvaluation)andSEE(SemesterEndExamination)takentogether. 
- 
-ContinuousInternalEvaluation(CIE): 
- 
-CIEmarksforthepracticalcourseis50Marks. 
- 
-Thesplit-upofCIEmarksforrecord/journalandtestareintheratio60:40. 
- 
-• Each experiment to be evaluated for conduction with observation sheet and record write-up. Rubrics for 
-theevaluationofthejournal/write- 
-upforhardware/softwareexperimentsdesignedbythefacultywhoishandlingthelaboratorysessionandismadekno 
-wntostudentsatthe beginningofthepracticalsession. 
-• Record should contain all the specified experiments in the syllabus and each experiment write-up will 
-beevaluated for10marks. 
-• Totalmarksscoredbythestudentsarescaleddownedto30marks(60%ofmaximummarks). 
-• Weightagetobe givenfor   neatnessandsubmissionofrecord/write-upontime. 
-• Department shall conduct 02 tests for 100 marks, the first test shall be conducted after the 8t^ week of 
-thesemesterandthesecondtestshallbeconducted afterthe14'hweekof thesemester. 
-• Ineachtest,testwrite- 
-up,conductionofexperiment,acceptableresult,andproceduralknowledgewillcarryaweightageof60%and 
-therest40%forviva-voce. 
-• Thesuitablerubricscanbedesignedtoevaluateeachstudent’sperformanceandlearningability.Rubricssuggeste     d 
-inAnnexure-IIofRegulationbook 
-• Theaverageof02testsisscaleddownto20marks(40%ofthemaximummarks). 
-TheSumofscaled-downmarksscored inthereportwrite-up/journalandaveragemarksoftwo 
-testsisthetotalCIEmarksscoredbythestudent. 
- 
-SemesterEndEvaluation(SEE): 
- 
-• SEEmarksforthepracticalcourseis50Marks. 
-• SEEshallbeconductedjointlybythetwoexaminersofthesameinstitute,examinersareappointedbytheUnive 
-rsity 
-• Alllaboratoryexperimentsaretobeincludedforpracticalexamination. 
-• (Rubrics) Breakup of marks and the  instructions  printed  on  the  cover  page  of  the answer  script 
-tobe strictly adhered to by the examiners. OR based  on  the  course  requirement  evaluation 
-rubricsshall bedecidedjointlybyexaminers. 
-• Studentscanpickonequestion(experiment)fromthequestionslotpreparedbytheinternal/externalexaminersjoint    
-ly. 
-• Evaluationoftestwrite-up/conductionprocedureandresult/vivawillbeconductedjointlybyexaminers. 
-• General rubrics suggested for SEE are mentioned here, write up -20%, Conduction procedureand result in - 
-60%, Viva-voce 20% of maximum marks. SEE for practical shall be evaluated for 100 marks and 
-scoredmarks shall be scaled down to 50 marks (however, based on course type, rubrics shall be decided 
-bytheexaminers) 
-• ThedurationofSEE is02hours 
-RubricssuggestedinAnnexure-lIofRegulationbook 
- 
- 
- 
-3 | P a g e C I T  
-ANGULAR JS(21CSL581) 3 
- 
- 
- 
- 
-SuggestedLearningResources: 
- 
-Textbooks 
-1. ShyamSeshadri,BradGreen—“AngularJS:UpandRunning:EnhancedProductivitywithStructuredWeb 
-Apps”, Apress, 0'ReillyMedia,Inc. 
-2. AgusKurniawan–“AngularJSProgrammingbyExample”,FirstEdition,PEPress,2014 
-WeblinksandVideoLectures(e-Resources): 
-1. IntroductiontoAngularJS:https://www.youtube.com/watch?v=HEbphzK-0xE 
-2. AngularJSModules:https://www.youtube.com/watch?v=gWm0KmgnQkU 
-3. https://www.youtube.com/watch?v=zKkUN-mJtPQ 
-4. https://www.youtube.com/watch?v=ICl7_i2mtZA 
-5. https://www.youtube.com/watch?v=Y2Few_nkze0 
-6. https://www.youtube.com/watch?v=QoptnVCQHsU 
-ActivityBasedLearning(SuggestedActivitiesinClass)/PracticalBasedlearning 
-• Demonstrationofsimpleprojects/applications(courseproject) 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-4 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-4 
- 
- 
- 
 1.  Develop Angular JS program that allows user to input their first name and last name and 
 display their fullname. Note: The default values for first name and last name may be included in 
 the program. 
@@ -231,14 +39,6 @@ $scope.fullName = $scope.firstName + ' ' + $scope.lastName;
 </body> 
 </html> 
  
-Sample Output: 
- 
- 
- 
- 
-5 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-5 
  
 2. Develop an Angular JS application that displays a list of shopping items. Allow users to add and 
 removeitems from the list using directives and controllers.Note: The default values of items may 
@@ -291,11 +91,6 @@ $scope.shoppingItems.splice(index, 1);
 </html> 
 Sample Output: 
  
- 
- 
-6 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-6 
  
 3.  Develop a simple Angular JS calculator application that can perform basic mathematical 
 operations(addition, subtraction, multiplication, division) based on user input. 
@@ -351,11 +146,7 @@ break;
  
  
  
- 
- 
-7 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-7 
+
  
 4. Write an Angular JS application that can calculate factorial and compute square based on given 
 user input. 
@@ -405,12 +196,7 @@ return n * factorial(n - 1);
 Sample Output: 
  
  
- 
- 
- 
-8 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-8 
+
  
  
 5. Develop AngularJS application that displays a details of students and their CGPA. Allow users 
@@ -448,10 +234,6 @@ $scope.addStudent = function () {
 if ($scope.name && $scope.cgpa) { 
 $scope.students.push({ 
  
- 
- 
- 
- 
 } 
 }; 
 }); 
@@ -466,13 +248,7 @@ cgpa: $scope.cgpa
 </script> 
 </body> 
 </html> 
-Sample Output: 
- 
- 
- 
-9 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-9 
+
  
 6. Develop an AngularJS program to create a simple to-do list application. Allow users to add, edit, 
 and deletetasks.Note: The default values for tasks may be included in the program. 
@@ -568,26 +344,7 @@ $scope.tasks.splice(index, 1);
 </body> 
  
 </html> 
- 
-Sample Output: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-11 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-11 
+
  
 7. Write an AngularJS program to create a simple CRUD application (Create, Read, Update, and 
 Delete) formanaging users. 
@@ -681,26 +438,7 @@ $scope.users.splice(index, 1);
 </body> 
  
 </html> 
-Sample Output: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-13 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-13 
+
  
 8. DevelopAngularJS program to create a login form, with validation for the username and 
 password fields. 
@@ -745,20 +483,7 @@ alert('Login failed. Invalid username or password.');
 </body> 
 </html> 
  
-Sample Output: 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-14 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-14 
+
  
 9. Create an AngularJS application that displays a list of employees and their salaries. Allow users 
 to searchfor employees by name and salary. Note: Employee details may be included in the program. 
@@ -804,14 +529,7 @@ $scope.searchSalary = '';
  
 </html> 
 Sample Output: 
- 
- 
- 
- 
- 
-15 | P a g e C I T  
-ANGULAR JS(21CSL581) 
-15 
+
  
 10. Create Angular JS application that allows users to maintain a collection of items. The 
 application should display the current total number of items, and this count should automatically 
@@ -863,9 +581,6 @@ $scope.items.splice(index, 1);
 </body> 
 </html> 
  
-Sample Output: 
- 
- 
 
  
 11. Create Angular JS application to convert student details to uppercase using angular filters. Note: 
@@ -906,13 +621,6 @@ $scope.names = ['Raj', 'Ram', 'Sam'];
 </body> 
 </html> 
  
- 
-Sample Output: 
- 
- 
- 
- 
-
  
  
 12. Create an AngularJS application that displays the date by using date filter parameters 
